@@ -1,0 +1,51 @@
+# 👉 Compiled object files
+*.o
+*.obj
+
+# 👉 Compiled binary files
+*.exe
+*.out
+*.app
+
+# 👉 Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# 👉 CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# 👉 Visual Studio Code
+.vscode/
+*.code-workspace
+
+# 👉 Logs, temp, and crash files
+*.log
+*.tmp
+*.dmp
+
+# 👉 System junk
+.DS_Store
+Thumbs.db
+
+# 👉 Windows debugger artifacts
+*.ilk
+*.pdb
+*.idb
+
+# 👉 MSYS2/MinGW specific cache
+*.stackdump
+
+# 👉 Backup/swap files
+*~
+*.swp
+*.bak
+
+# 👉 Auto-generated tags
+tags
